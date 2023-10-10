@@ -5,7 +5,7 @@ I'm a passionate developer based in Reims. I love creating things that live on t
 - 🛠️ I mainly work with: `TypeScript`, `React`, `Node.js`, `Java`, `PHP`, `C++`
 - 🎓 Graduated from: CNAM
 - 💼 Currently working at: CRNA - EST
-- 🌐 Personal website: [tom-georgelin.fr](https://yourwebsite.com)
+- 🌐 Personal website: [tom-georgelin.fr](https://www.tom-georgelin.fr/)
 
 ## 🔗 Quick Links
 
